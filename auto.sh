@@ -5,7 +5,7 @@
 
 TARGET_DOMAIN=$1
 WORDLIST="/root/tools/lists/subdomains-top1million-5000.txt" # DNS wordlist
-SHODAN_KEY="3fgG19LwUNOcPkKRXHnP7P7aYWt9pImy"                # Shodan API key
+SHODAN_KEY=""                # Shodan API key
 RESOLVERS="/root/tools/lists/resolvers.txt"                  # Good resolvers
 
 # === Output Directories ===

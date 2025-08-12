@@ -6,3 +6,5 @@ Simple Bugbounty automation tool for recon.
 ```shell
 ../auto.sh example.com
 ```
+
+## installation 
